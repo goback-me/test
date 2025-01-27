@@ -1,0 +1,35 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+.nav-wrap .nav-item-wrap{
+    list-style: none;
+}
+
+#main-header .logo-wrapper{
+    display: flex;
+    align-items: center;
+    /* justify-content:space-between; */
+    padding: 0px 80px;
+}
+
+.website-main-nav .nav-wrap{
+    display: flex;
+    gap: 20px;
+}
+
+.logo-wrapper #logo img{
+    width: 150px;
+    margin-right: 40px;
+}
+
+.main-login-wrap li{
+    list-style: none;
+}
+
+.main-login-wrap{
+    display: flex;
+    gap: 20px;
+    margin-left: 40px;
+}
