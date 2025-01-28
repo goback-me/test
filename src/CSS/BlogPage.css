@@ -147,4 +147,17 @@
         .mobile-menu-hide{
             display: none;
         }
+
+        .main-image-container img{
+            height: 250px;
+            width: 80%;
+        }
+
+        .mainblog-content .blog-title{
+            font-size: 24px;
+        }
+
+        .mainblog-content{
+            padding: 0px 20px 20px 20px;
+        }
     }
