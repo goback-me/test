@@ -1,10 +1,10 @@
 import './App.css';
-import Header from "./components/header.jsx"
+import InnerBlogPage from './innerBlogPage.jsx';
 
 function App() {
   return (
     <div className="App">
-      <Header/> 
+      <InnerBlogPage/>
     </div>
   );
 }
